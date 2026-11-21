@@ -5,7 +5,7 @@ const poem = `“Out?” you ask.
 “Yes.”
 You lift the latch.
 I shoulder the swollen door.
-Our first agreement
+Our first truce
 is a gap wide enough
 for either of us to leave.`;
 
